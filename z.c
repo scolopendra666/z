@@ -15,7 +15,7 @@ void initializeGame() {
     paddle1 = 11;
     paddle2 = 11;
     directionX = 1;
-    directionY = 1;
+    directionY = 0;
     player1Score = 0;
     player2Score = 0;
 }
